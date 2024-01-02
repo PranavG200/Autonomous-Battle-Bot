@@ -2,7 +2,7 @@
 
 This project entails the development of a mobile autonomous robot with advanced sensing and communication capabilities right from its design inception to a fully working bot. The robot exhibits autonomous wall-following behavior, precise localization through Vive system integration, and employs infrared beacon tracking for targeted navigation. Notably, it communicates using communication protocols such as UDP and ESPNow, enabling dynamic interaction. The robot’s proficiency is demonstrated by its ability to autonomously manipulate objects, including grabbing a real trophy, pushing a fake trophy and a police car with precision, highlighting its adaptability in practical applications. This project was done as the part of the course MEAM510 : Design of Mechatronic Systems at UPenn
 
-![Alt Text](www.github.com/PranavG200/Autonomous-Battle-Bot/pictures/arch.png)
+![Alt Text]([www.github.com/PranavG200/Autonomous-Battle-Bot/pictures/arch.png](https://github.com/PranavG200/Autonomous-Battle-Bot/blob/main/pictures/arch.png))
 
 **Key Functional Components :**
 
@@ -23,8 +23,9 @@ we leverage the start position obtained from Vive localization and the end goal 
 *Control*
 
 we implemented PID controllers for both lateral (angle/orientation) and longitudinal (distance) control. The desired distance and orientation, dictated by the planning module, guide the robot’s movements. 
-*Web Interface design and communications*
-For interface, we hosted a HTML based webpage and employed UDP WiFi communication, enabling interaction with the robot. The webpage featured task selection options, a stop button, and flags indicating task completion or timeout. Minimizing packet transmission was crucial for promoting autonomous behavior and earning bonus points. Additionally, we implemented ESPNow communication for seamless message
-transfer between the robot’s ESP microcontroller and the pilot microcontroller
 
-![Alt Text](www.github.com/PranavG200/Autonomous-Battle-Bot/pictures/iso.png)
+*Web Interface design and communications*
+
+For interface, we hosted a HTML based webpage and employed UDP WiFi communication, enabling interaction with the bot. The webpage featured task selection options, a stop button, and flags indicating task completion or timeout. Minimizing packet transmission was crucial. Additionally, we implemented ESPNow communication for seamless message transfer between the robot’s ESP microcontroller and the pilot microcontroller
+
+![Alt Text](https://github.com/PranavG200/Autonomous-Battle-Bot/blob/main/pictures/iso.png)
