@@ -2,7 +2,7 @@
 
 This project entails the development of a mobile autonomous robot with advanced sensing and communication capabilities right from its design inception to a fully working bot. The robot exhibits autonomous wall-following behavior, precise localization through Vive system integration, and employs infrared beacon tracking for targeted navigation. Notably, it communicates using communication protocols such as UDP and ESPNow, enabling dynamic interaction. The robot’s proficiency is demonstrated by its ability to autonomously manipulate objects, including grabbing a real trophy, pushing a fake trophy and a police car with precision, highlighting its adaptability in practical applications. This project was done as the part of the course MEAM510 : Design of Mechatronic Systems at UPenn
 
-![Alt Text](https://raw.githubusercontent.com/PranavG200/Autonomous-Battle-Bot/main/pictures/arch.png)
+![alt text](https://raw.githubusercontent.com/PranavG200/Autonomous-Battle-Bot/main/pictures/arch.png)
 
 **Key Functional Components :**
 
@@ -28,4 +28,4 @@ we implemented PID controllers for both lateral (angle/orientation) and longitud
 
 For interface, we hosted a HTML based webpage and employed UDP WiFi communication, enabling interaction with the bot. The webpage featured task selection options, a stop button, and flags indicating task completion or timeout. Minimizing packet transmission was crucial. Additionally, we implemented ESPNow communication for seamless message transfer between the robot’s ESP microcontroller and the pilot microcontroller
 
-![image](https://github.com/PranavG200/Autonomous-Battle-Bot/blob/main/pictures/iso.png)
+![alt text](https://github.com/PranavG200/Autonomous-Battle-Bot/blob/main/pictures/iso.png)
