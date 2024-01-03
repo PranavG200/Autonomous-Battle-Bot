@@ -32,4 +32,4 @@ For interface, we hosted a HTML based webpage and employed UDP WiFi communicatio
 
 Bot Performing wall following -
 
-<img width="494" src="https://youtube.com/shorts/Lj7yCi2oDeo?si=GCSBrgnZZGK95ZWx">
+[](https://youtube.com/shorts/Lj7yCi2oDeo?si=GCSBrgnZZGK95ZWx")
