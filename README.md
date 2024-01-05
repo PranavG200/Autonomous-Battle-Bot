@@ -30,18 +30,30 @@ we implemented PID controllers for both lateral (angle/orientation) and longitud
 
 For interface, we hosted a HTML based webpage and employed UDP WiFi communication, enabling interaction with the bot. The webpage featured task selection options, a stop button, and flags indicating task completion or timeout. Minimizing packet transmission was crucial. Additionally, we implemented ESPNow communication for seamless message transfer between the robot’s ESP microcontroller and the pilot microcontroller
 
-<p align="center">
+<p align="center">  
 <img width="480" alt="iso" src="https://github.com/PranavG200/Autonomous-Battle-Bot/assets/46398827/d2934bfd-f3f0-42a4-a064-9dcc37782b9b">
 </p>
 
 *wall following*  
 
+<p align="center">
+  
 [![wallfollow](https://github.com/PranavG200/Autonomous-Battle-Bot/assets/46398827/fd1b662c-911f-494f-b412-17339b943cb1)](https://www.youtube.com/shorts/Lj7yCi2oDeo "Wall following")
+
+</p>
 
 *Beacon Tracking*
 
+<p align="center">
+  
 [![beacon](https://github.com/PranavG200/Autonomous-Battle-Bot/assets/46398827/a3223808-8923-4bf5-9990-b21d367f3622)](https://www.youtube.com/shorts/0ikxpwPlQak "Beacon tracking")
+
+</p>
 
 *Police car track and push*
 
+<p align="center">
+  
 [![policecar](https://github.com/PranavG200/Autonomous-Battle-Bot/assets/46398827/63ad13ed-c8f1-4204-b8d3-b8c0867b21f7)](https://www.youtube.com/shorts/0jXz04Jukag "Police car track and push")
+  
+</p>
