@@ -30,4 +30,4 @@ For interface, we hosted a HTML based webpage and employed UDP WiFi communicatio
 
 <img width="600" alt="iso" src="https://github.com/PranavG200/Autonomous-Battle-Bot/assets/46398827/d2934bfd-f3f0-42a4-a064-9dcc37782b9b">
 
-![maxresdefault](https://github.com/PranavG200/Autonomous-Battle-Bot/assets/46398827/44d58d0e-ea03-44f9-8e46-e9d69608499d)(https://youtube.com/shorts/Lj7yCi2oDeo?si=GCSBrgnZZGK95ZWx "Wall Following")
+[![maxresdefault](https://github.com/PranavG200/Autonomous-Battle-Bot/assets/46398827/44d58d0e-ea03-44f9-8e46-e9d69608499d)](https://youtube.com/shorts/Lj7yCi2oDeo?si=GCSBrgnZZGK95ZWx "Wall Following")
