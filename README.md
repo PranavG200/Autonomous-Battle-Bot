@@ -35,6 +35,7 @@ For interface, we hosted a HTML based webpage and employed UDP WiFi communicatio
 </p>
 
 *wall following*  
+
 [![wallfollow](https://github.com/PranavG200/Autonomous-Battle-Bot/assets/46398827/fd1b662c-911f-494f-b412-17339b943cb1)](https://www.youtube.com/shorts/Lj7yCi2oDeo "Wall following")
 
 *Beacon Tracking*
@@ -43,5 +44,4 @@ For interface, we hosted a HTML based webpage and employed UDP WiFi communicatio
 
 *Police car track and push*
 
-[![policecar](https://github.com/PranavG200/Autonomous-Battle-Bot/assets/46398827/63ad13ed-c8f1-4204-b8d3-b8c0867b21f7)]
-(https://www.youtube.com/shorts/0jXz04Jukag "Police car track and push")
+[![policecar](https://github.com/PranavG200/Autonomous-Battle-Bot/assets/46398827/63ad13ed-c8f1-4204-b8d3-b8c0867b21f7)](https://www.youtube.com/shorts/0jXz04Jukag "Police car track and push")
