@@ -32,6 +32,4 @@ For interface, we hosted a HTML based webpage and employed UDP WiFi communicatio
 
 Bot Performing wall following -
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/<insert-youtube-video-id-here>/0.jpg)](https://youtube.com/shorts/Lj7yCi2oDeo?si=GCSBrgnZZGK95ZWx "Everything Is AWESOME")
-
-[](https://youtube.com/shorts/Lj7yCi2oDeo?si=GCSBrgnZZGK95ZWx)
+[![Everything Is AWESOME](https://img.youtube.com/vi/<Lj7yCi2oDeo?si=GCSBrgnZZGK95ZWx>/0.jpg)](https://youtube.com/shorts/Lj7yCi2oDeo?si=GCSBrgnZZGK95ZWx "Everything Is AWESOME")
