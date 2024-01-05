@@ -31,5 +31,4 @@ For interface, we hosted a HTML based webpage and employed UDP WiFi communicatio
 <img width="712" alt="iso" src="https://github.com/PranavG200/Autonomous-Battle-Bot/assets/46398827/d2934bfd-f3f0-42a4-a064-9dcc37782b9b">
 
 Bot Performing wall following -
-
-[![Everything Is AWESOME](https://img.youtube.com/vi/<Lj7yCi2oDeo?si=GCSBrgnZZGK95ZWx>/0.jpg)](https://youtube.com/shorts/Lj7yCi2oDeo?si=GCSBrgnZZGK95ZWx "Everything Is AWESOME")
+[![maxresdefault](https://github.com/PranavG200/Autonomous-Battle-Bot/assets/46398827/298074eb-f95d-4497-b1e4-da4fe211aad2)(https://youtube.com/shorts/Lj7yCi2oDeo?si=GCSBrgnZZGK95ZWx)]
