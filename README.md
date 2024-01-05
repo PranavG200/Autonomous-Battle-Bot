@@ -28,6 +28,6 @@ we implemented PID controllers for both lateral (angle/orientation) and longitud
 
 For interface, we hosted a HTML based webpage and employed UDP WiFi communication, enabling interaction with the bot. The webpage featured task selection options, a stop button, and flags indicating task completion or timeout. Minimizing packet transmission was crucial. Additionally, we implemented ESPNow communication for seamless message transfer between the robot’s ESP microcontroller and the pilot microcontroller
 
-<img width="700" alt="iso" src="https://github.com/PranavG200/Autonomous-Battle-Bot/assets/46398827/d2934bfd-f3f0-42a4-a064-9dcc37782b9b">
+<img width="600" alt="iso" src="https://github.com/PranavG200/Autonomous-Battle-Bot/assets/46398827/d2934bfd-f3f0-42a4-a064-9dcc37782b9b">
 
-[![maxresdefault](https://github.com/PranavG200/Autonomous-Battle-Bot/assets/46398827/298074eb-f95d-4497-b1e4-da4fe211aad2)(https://youtube.com/shorts/Lj7yCi2oDeo?si=GCSBrgnZZGK95ZWx "Wall Following")]
+![maxresdefault](https://github.com/PranavG200/Autonomous-Battle-Bot/assets/46398827/44d58d0e-ea03-44f9-8e46-e9d69608499d)(https://youtube.com/shorts/Lj7yCi2oDeo?si=GCSBrgnZZGK95ZWx "Wall Following")
