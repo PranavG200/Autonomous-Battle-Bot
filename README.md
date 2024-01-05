@@ -2,7 +2,7 @@
 
 This project entails the development of a mobile autonomous robot with advanced sensing and communication capabilities right from its design inception to a fully working bot. The robot exhibits autonomous wall-following behavior, precise localization through Vive system integration, and employs infrared beacon tracking for targeted navigation. Notably, it communicates using communication protocols such as UDP and ESPNow, enabling dynamic interaction. The robot’s proficiency is demonstrated by its ability to autonomously manipulate objects, including grabbing a real trophy, pushing a fake trophy and a police car with precision, highlighting its adaptability in practical applications. This project was done as the part of the course MEAM510 : Design of Mechatronic Systems at University of Pennsylvania
 
-<img width="494" alt="arch" src="https://github.com/PranavG200/Autonomous-Battle-Bot/assets/46398827/43732dc0-16f7-4dfa-9f17-b2b1a10a8e1d">
+<img width="490" alt="arch" src="https://github.com/PranavG200/Autonomous-Battle-Bot/assets/46398827/43732dc0-16f7-4dfa-9f17-b2b1a10a8e1d">
 
 **Key Functional Components :**
 
@@ -28,7 +28,6 @@ we implemented PID controllers for both lateral (angle/orientation) and longitud
 
 For interface, we hosted a HTML based webpage and employed UDP WiFi communication, enabling interaction with the bot. The webpage featured task selection options, a stop button, and flags indicating task completion or timeout. Minimizing packet transmission was crucial. Additionally, we implemented ESPNow communication for seamless message transfer between the robot’s ESP microcontroller and the pilot microcontroller
 
-<img width="712" alt="iso" src="https://github.com/PranavG200/Autonomous-Battle-Bot/assets/46398827/d2934bfd-f3f0-42a4-a064-9dcc37782b9b">
+<img width="700" alt="iso" src="https://github.com/PranavG200/Autonomous-Battle-Bot/assets/46398827/d2934bfd-f3f0-42a4-a064-9dcc37782b9b">
 
-Bot Performing wall following -
-[![maxresdefault](https://github.com/PranavG200/Autonomous-Battle-Bot/assets/46398827/298074eb-f95d-4497-b1e4-da4fe211aad2)(https://youtube.com/shorts/Lj7yCi2oDeo?si=GCSBrgnZZGK95ZWx)]
+[![maxresdefault](https://github.com/PranavG200/Autonomous-Battle-Bot/assets/46398827/298074eb-f95d-4497-b1e4-da4fe211aad2)(https://youtube.com/shorts/Lj7yCi2oDeo?si=GCSBrgnZZGK95ZWx "Wall Following")]
