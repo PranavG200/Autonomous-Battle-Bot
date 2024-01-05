@@ -2,7 +2,9 @@
 
 This project entails the development of a mobile autonomous robot with advanced sensing and communication capabilities right from its design inception to a fully working bot. The robot exhibits autonomous wall-following behavior, precise localization through Vive system integration, and employs infrared beacon tracking for targeted navigation. Notably, it communicates using communication protocols such as UDP and ESPNow, enabling dynamic interaction. The robot’s proficiency is demonstrated by its ability to autonomously manipulate objects, including grabbing a real trophy, pushing a fake trophy and a police car with precision, highlighting its adaptability in practical applications. This project was done as the part of the course MEAM510 : Design of Mechatronic Systems at University of Pennsylvania
 
-<img width="490" alt="arch" src="https://github.com/PranavG200/Autonomous-Battle-Bot/assets/46398827/43732dc0-16f7-4dfa-9f17-b2b1a10a8e1d">
+<p align="center">
+<img width="480" alt="arch" src="https://github.com/PranavG200/Autonomous-Battle-Bot/assets/46398827/43732dc0-16f7-4dfa-9f17-b2b1a10a8e1d">
+</p>
 
 **Key Functional Components :**
 
@@ -28,6 +30,18 @@ we implemented PID controllers for both lateral (angle/orientation) and longitud
 
 For interface, we hosted a HTML based webpage and employed UDP WiFi communication, enabling interaction with the bot. The webpage featured task selection options, a stop button, and flags indicating task completion or timeout. Minimizing packet transmission was crucial. Additionally, we implemented ESPNow communication for seamless message transfer between the robot’s ESP microcontroller and the pilot microcontroller
 
-<img width="600" alt="iso" src="https://github.com/PranavG200/Autonomous-Battle-Bot/assets/46398827/d2934bfd-f3f0-42a4-a064-9dcc37782b9b">
+<p align="center">
+<img width="480" alt="iso" src="https://github.com/PranavG200/Autonomous-Battle-Bot/assets/46398827/d2934bfd-f3f0-42a4-a064-9dcc37782b9b">
+</p>
 
-[![maxresdefault](https://github.com/PranavG200/Autonomous-Battle-Bot/assets/46398827/44d58d0e-ea03-44f9-8e46-e9d69608499d)](https://youtube.com/shorts/Lj7yCi2oDeo?si=GCSBrgnZZGK95ZWx "Wall Following")
+*wall following*  
+[![wallfollow](https://github.com/PranavG200/Autonomous-Battle-Bot/assets/46398827/fd1b662c-911f-494f-b412-17339b943cb1)](https://www.youtube.com/shorts/Lj7yCi2oDeo "Wall following")
+
+*Beacon Tracking*
+
+[![beacon](https://github.com/PranavG200/Autonomous-Battle-Bot/assets/46398827/a3223808-8923-4bf5-9990-b21d367f3622)](https://www.youtube.com/shorts/0ikxpwPlQak "Beacon tracking")
+
+*Police car track and push*
+
+[![policecar](https://github.com/PranavG200/Autonomous-Battle-Bot/assets/46398827/63ad13ed-c8f1-4204-b8d3-b8c0867b21f7)]
+(https://www.youtube.com/shorts/0jXz04Jukag "Police car track and push")
